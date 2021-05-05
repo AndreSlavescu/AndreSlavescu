@@ -21,4 +21,8 @@
 
 
 
+## Socials
+Check out my [Youtube](https://www.youtube.com/channel/UCd2fuEpcEU1BfOZKpVW-0ug) channel!
+
+
 
