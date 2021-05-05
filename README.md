@@ -1,15 +1,15 @@
 <h1 align="center">Andre Slavescu's Portfolio</h1>
-<h3 align="center">Highschool Student at St. Robert CHS</h1>,
+<h3 align="center">Highschool Student at St. Robert CHS</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AndreSlavescu" width="200px" /> </p>
 
 
 ## GitHub Stats
-![Andre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreSlavescu&show_icons=true&theme=radical),
+![Andre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreSlavescu&show_icons=true&theme=radical)
 
 
 
 ## Language Usage
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreSlavescu&show_icons=true&theme=radical)],
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreSlavescu&show_icons=true&theme=radical)
 
 
 
