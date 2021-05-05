@@ -1,5 +1,8 @@
 # Andre Slavescu's Portfolio
 
-![Andre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreSlavescu&show_icons=true&theme=radical)
+## GitHub Stats
+![Andre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreSlavescu&show_icons=true&theme=radical),
 
 
+## Language usage
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreSlavescu&show_icons=true&theme=radical)]
