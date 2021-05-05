@@ -1,7 +1,5 @@
-# AndreS
-Andre Slavescu Portfolio
+# Andre Slavescu's Portfolio
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreSlavescu&&show_icons=true&title_color=ffffff&icon_color=g2gcf&text_color=daf7gc&bg_color=ffba2c">
-</p>
+![Andre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreSlavescu&show_icons=true&theme=radical)
+
 
