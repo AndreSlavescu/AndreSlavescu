@@ -4,7 +4,7 @@
 
 ## Upcoming Events!
 - `Google CSSI 2021` 
-- `OpenCV AI competition 2021`
+- `OpenCV AI Competition 2021 Finals`
 
 
 ## GitHub Stats
