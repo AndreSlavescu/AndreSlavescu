@@ -30,6 +30,6 @@
 
 ## Socials
 ### Check out my [Youtube](https://www.youtube.com/channel/UCd2fuEpcEU1BfOZKpVW-0ug) channel!
-
+### Check out my [Devpost](https://devpost.com/andre-slavescu?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) profile!
 
 
