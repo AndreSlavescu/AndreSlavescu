@@ -2,10 +2,10 @@
 <h3 align="center">Student at the University of Waterloo</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AndreSlavescu" width="200px" /> </p>
 
-## Upcoming Events!
-- `Google CSSI 2021` 
-- `OpenCV AI Competition 2021 Finals`
-
+## Currently Working With
+- Computer Vision Algorithms
+- Simultaneous Localization and Mapping (SLAM)
+- Tensorflow js 
 
 ## GitHub Stats
 ![Andre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreSlavescu&show_icons=true&theme=radical)
