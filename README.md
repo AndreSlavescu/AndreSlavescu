@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AndreSlavescu" width="200px" /> </p>
 
 ## Currently Working With
-- Computer Vision Algorithms
+- Computer Vision Algorithms and Libraries
 - Simultaneous Localization and Mapping (SLAM)
 - Tensorflow js 
 
