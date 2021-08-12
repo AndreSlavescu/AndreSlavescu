@@ -3,9 +3,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AndreSlavescu" width="200px" /> </p>
 
 ## Currently Working With
-- Computer Vision Algorithms and Libraries
-- Simultaneous Localization and Mapping (SLAM)
-- Tensorflow js 
+- Computer Vision Algorithms and Libraries 👨‍💻
+- Simultaneous Localization and Mapping (SLAM) 🚗
+- Tensorflow js 💻
+- Discord.py 👍
 
 ## GitHub Stats
 ![Andre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreSlavescu&show_icons=true&theme=radical)
