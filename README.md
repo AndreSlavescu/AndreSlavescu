@@ -7,6 +7,7 @@
 - Simultaneous Localization and Mapping (SLAM) 🚗
 - Tensorflow js 💻
 - Discord.py 👍
+- Yahoo Finance 📈
 
 ## GitHub Stats
 ![Andre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreSlavescu&show_icons=true&theme=radical)
