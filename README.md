@@ -2,12 +2,19 @@
 <h3 align="center">Student at the University of Waterloo</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AndreSlavescu" width="200px" /> </p>
 
-## Currently Working With
-- Computer Vision Algorithms and Libraries 👨‍💻
-- Simultaneous Localization and Mapping (SLAM) 🚗
-- Tensorflow js 💻
-- Discord.py 👍
-- Yahoo Finance 📈
+## My Interests
+- All things computer vision!
+- Generative AI
+- FPGA design
+- CUDA programming
+- working with DL frameworks!
+
+
+## What I'm learning
+- Diving deep into transformers
+- Applications of NeRF to SLAM
+- Multimodal applications to language models
+
 
 ## GitHub Stats
 ![Andre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreSlavescu&show_icons=true&theme=radical)
