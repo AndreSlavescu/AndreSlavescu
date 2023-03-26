@@ -7,6 +7,7 @@
 - Generative AI
 - FPGA design
 - CUDA programming
+- Autograd Engines
 - working with DL frameworks!
 
 
