@@ -8,6 +8,7 @@
 - FPGA design
 - CUDA programming
 - Autograd Engines
+- Tensor Compilers
 - working with DL frameworks!
 
 
