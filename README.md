@@ -2,44 +2,11 @@
 <h3 align="center">Student at the University of Waterloo</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AndreSlavescu" width="200px" /> </p>
 
-## My Interests
-- All things computer vision!
-- Generative AI
-- FPGA design
-- CUDA programming
-- Autograd Engines
-- Tensor Compilers
-- working with DL frameworks!
+## What I'm up to
+- Pretty much anything with LLMs :D
+- Building towards a Lisp-based autograd engine (have yet to do the autograd part, but soon to come!)
 
-
-## What I'm learning
-- Diving deep into transformers
-- Applications of NeRF to SLAM
-- Multimodal applications to language models
-
-
-## GitHub Stats
-![Andre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreSlavescu&show_icons=true&theme=radical)
-
-
-
-## Language Usage
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreSlavescu&show_icons=true&theme=radical)
-
-
-
-## Technologies Used
-[<img src="docs/python.png" width="40px">](https://www.python.org/)
-[<img src="docs/JS.png" width="40px">](https://www.javascript.com/)
-[<img src="docs/Html5.png" width="40px">](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[<img src="docs/css.png" width="28px">](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img src="docs/openCV.png" width="30px">](https://opencv.org/)
-[<img src="docs/firebase.png" width="60px">](https://firebase.google.com/)
-[<img src="docs/flask.png" width="50px">](https://flask.palletsprojects.com/en/1.1.x/)
-
-
-
-## Socials
-### Check out my [Devpost](https://devpost.com/andre-slavescu?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) profile!
+## What I work with
+- Many obscure languages and fast model serving platforms improving inference speeds!
 
 
