@@ -9,4 +9,7 @@
 ## What I work with
 - Many obscure languages and fast model serving platforms improving inference speeds!
 
+## Work with Me?
+- I'm always looking for the next big challenge to take on. I love interesting work in AI and am currently looking for a summer '24 opportunity.
+
 
