@@ -5,7 +5,6 @@
 ## What I'm up to
 - writing code for the fastest autonomous racecar
 - Pretty much anything with LLMs :D
-- Building towards a Lisp-based autograd engine (have yet to do the autograd part, but soon to come!)
 
 ## What I work with
 - Many obscure languages and fast model serving platforms improving inference speeds!
