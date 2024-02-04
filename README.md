@@ -3,13 +3,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AndreSlavescu" width="200px" /> </p>
 
 ## What I'm up to
-- writing code for the fastest autonomous racecar
-- Pretty much anything with LLMs :D
-
-## What I work with
-- Many obscure languages and fast model serving platforms improving inference speeds!
+- Contributing to [MLX](https://github.com/ml-explore/mlx)
+- Working on [RankLLM](https://github.com/castorini/rank_llm)
 
 ## Work with Me?
-- I'm always looking for the next big challenge to take on. I love interesting work in AI and am currently looking for a summer 2024 opportunity.
-
+- I have experience working on ML systems codebases, working with ML frameworks, applying ML theory, and much more. I would love to work on cool problems in the AI space and am currently looking for a Summer 2024 internship!
 
