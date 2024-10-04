@@ -6,6 +6,10 @@
   ML Compilers, Autonomous Vehicles
 </p>
 
+<p align="center">
+  Incoming ML intern at Cerebras.
+</p>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AndreSlavescu" width="200px" /> </p>
 
