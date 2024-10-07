@@ -16,7 +16,3 @@
   Machine Learning Systems Engineer Intern, CentML (January 2023 - April 2023)<br>
   Data Scientist Intern, Patagona Technologies (May 2022 - August 2022)
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AndreSlavescu" width="200px" />
-</p>
